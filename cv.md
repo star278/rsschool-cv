@@ -30,7 +30,8 @@
 * Adding new features to project;
 * Development of REST API;
 * Development of PHP unit tests, automation testing;
-* Site support.\
+* Site support.
+
 **Languages:** PHP, SQL, JavaScript, HTML/CSS;\
 **Frameworks:** Magento 1;\
 **Tools:** WorkBench, Git, xDebug, phpStorm, Postman;\
@@ -45,7 +46,8 @@
 **Tasks and Accomplishments:**
 * Development and support backend apps for mobile apps;
 * Development of REST API;
-* Condensed, optimized, externalized existing code.\
+* Condensed, optimized, externalized existing code.
+
 **Languages:** PHP, SQL, JavaScript, HTML/CSS;\
 **Frameworks:** Symfony;\
 **Tools:** xdebug, Git, WorkBench;\
@@ -59,7 +61,8 @@
 **Project Role:** Junior Developer;\
 **Tasks and Accomplishments:**
 * Developing and support CRM and SRM;
-* Condensed, optimized, externalized existing code;\
+* Condensed, optimized, externalized existing code;
+
 **Languages:** PHP, SQL, JavaScript, HTML/CSS;\
 **Frameworks:** YII2, Laravel;\
 **Tools:** xdebug, Git, WorkBench, Postman;\
